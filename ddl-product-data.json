@@ -1,0 +1,29 @@
+[{
+  "DL6600_SW": {
+    "img": "https://your-domain.com/img/dl6600_SW.jpg",
+    "id": "DL6600 (Swing Door)",
+    "pin": "100",
+    "keycard": "100",
+    "finger": "100",
+    "key": "✓",
+    "front": "36 x 310 x 55",
+    "back": "36 x 310 x 55",
+    "thickness": "35-55",
+    "backset": "35",
+    "mortise": "52",
+    "lock": "Mortise",
+    "mastercode": "✓",
+    "blu": "-",
+    "bts_mrt": "✓",
+    "battery": "✓",
+    "burglar": "✓",
+    "zig": "logo here",
+    "remote": "✓*",
+    "color": "Black",
+    "door_type": "บานเปิด, บานคู่, เฟรมแคบ",
+    "price": "13,900",
+    "face": "-",
+    "wifi": "-",
+    "palm": "-"
+  }
+}]
