@@ -25,5 +25,33 @@
     "face": "-",
     "wifi": "-",
     "palm": "-"
+  },
+  "DL7100": {
+    "img": "https://your-domain.com/img/dl7100.jpg",
+    "id": "DL7100",
+    "pin": "50",
+    "keycard": "50",
+    "finger": "100",
+    "key": "✓",
+    "front": "64 x 283 x 75",
+    "back": "64 x 283 x 75",
+    "thickness": "35-50",
+    "backset": "60",
+    "mortise": "80",
+    "lock": "Mortise",
+    "mastercode": "✓",
+    "blu": "-",
+    "bts_mrt": "✓",
+    "battery": "✓",
+    "burglar": "✓",
+    "zig": "logo here",
+    "remote": "✓*",
+    "color": "Black",
+    "door_type": "บานเปิด",
+    "price": "14,900",
+    "face": "-",
+    "wifi": "-",
+    "palm": "-"
   }
+  // add more products...
 }
