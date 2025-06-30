@@ -43,11 +43,11 @@
     "mortise": "-",
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "lock",
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -103,7 +103,7 @@
     "mortise": "85",
     "lock": "Latch Lock",
     "mastercode": "-",
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
@@ -131,9 +131,9 @@
     "thickness": "32-50",
     "backset": "60-70",
     "mortise": "85",
-    "lock": "Latch lock",
+    "lock": "Latch Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
@@ -167,7 +167,7 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -197,7 +197,7 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -257,7 +257,7 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -287,7 +287,7 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -313,11 +313,11 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "lock",
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png",
@@ -348,7 +348,7 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
@@ -374,11 +374,11 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "lock",
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": "living",
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png",
@@ -405,7 +405,7 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
@@ -433,9 +433,9 @@
     "thickness": "30-50",
     "backset": "60-70",
     "mortise": "85",
-    "lock": "Latch",
+    "lock": "Latch Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
@@ -465,7 +465,7 @@
     "mortise": "85",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
@@ -495,7 +495,7 @@
     "mortise": "110",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
@@ -523,9 +523,9 @@
     "thickness": "30-90",
     "backset": "-",
     "mortise": "-",
-    "lock": "Rim",
+    "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "living",
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
@@ -567,7 +567,7 @@
     "door_type": "บานเปิด, บานคู่",
     "price": "16,900",
     "face": "-",
-    "wifi": "living",
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "palm": "-"
   },
     
@@ -597,7 +597,7 @@
     "door_type": "บานเปิด, บานคู่",
     "price": "22,900",
     "face": "100",
-    "wifi": "living",
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "palm": "-"
   }
 }
