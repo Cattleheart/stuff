@@ -20,7 +20,7 @@
     "zig": "-",
     "remote": "-",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "6,290",
@@ -50,7 +50,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่, เฟรมแคบ",
     "price": "9,500",
@@ -80,7 +80,7 @@
     "zig": "-",
     "remote": "-",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่, บานเลื่อน, เฟรมแคบ",
     "price": "9,500",
@@ -110,7 +110,7 @@
     "burglar": "-",
     "zig": "-",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "4,990",
@@ -140,7 +140,7 @@
     "burglar": "-",
     "zig": "-",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "6,490",
@@ -170,7 +170,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่, เฟรมแคบ",
     "price": "13,900",
@@ -200,7 +200,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเลื่อน, เฟรมแคบ",
     "price": "13,900",
@@ -230,7 +230,7 @@
     "zig": "-",
     "remote": "-",
     "color": {
-    "gray": "/wp-content/uploads/2024/01/ddl-gray.png"
+    "Gray": "/wp-content/uploads/2024/01/ddl-gray.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "9,500",
@@ -260,7 +260,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด",
     "price": "10,900",
@@ -290,7 +290,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด",
     "price": "14,900",
@@ -320,8 +320,8 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png",
-    "copper": "/wp-content/uploads/2024/01/ddl-copper.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png",
+    "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "17,500",
@@ -351,7 +351,7 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "15,500",
@@ -381,8 +381,8 @@
     "zig": "living",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png",
-    "copper": "/wp-content/uploads/2024/01/ddl-copper.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png",
+    "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "18,500",
@@ -412,7 +412,7 @@
     "zig": "-",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "25,900",
@@ -442,7 +442,7 @@
     "zig": "-",
     "remote": "c+red",
     "color": {
-    "silver": "/wp-content/uploads/2025/06/ddl-silver.png"
+    "Stainless Steel": "/wp-content/uploads/2025/06/ddl-silver.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "1,890",
@@ -472,7 +472,7 @@
     "zig": "-",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "7,890",
@@ -502,7 +502,7 @@
     "zig": "-",
     "remote": "c+red",
     "color": {
-    "black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "12,900",
@@ -532,7 +532,7 @@
     "zig": "-",
     "remote": "c+red",
     "color": {
-    "dark gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
     },
     "door_type": "บานเปิด, บานคู่, บานเลื่อน, เฟรมแคบ",
     "price": "9,900",
@@ -562,7 +562,7 @@
     "zig": "-",
     "remote": "c",
     "color": {
-    "dark gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "16,900",
@@ -592,7 +592,7 @@
     "zig": "-",
     "remote": "c",
     "color": {
-    "dark gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "22,900",
