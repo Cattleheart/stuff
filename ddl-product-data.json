@@ -141,7 +141,7 @@
 
   "DL6600_SW": {
     "img": "/wp-content/uploads/2024/01/dl6600_SW.jpg",
-    "id": "DL6600<br>(SWING DOOR)",
+    "id": "DL6600 (SWING DOOR)",
     "pin": "100",
     "keycard": "100",
     "finger": "100",
@@ -169,7 +169,7 @@
 
   "DL6600_SL": {
     "img": "/wp-content/uploads/2024/01/dl6600_SL.jpg",
-    "id": "DL6600<br>(SLIDING DOOR)",
+    "id": "DL6600 (SLIDING DOOR)",
     "pin": "100",
     "keycard": "100",
     "finger": "100",
@@ -299,7 +299,7 @@
     "burglar": "c",
     "zig": "living",
     "remote": "c+red",
-    "color": "black<br>copper",
+    "color": "black copper",
     "door_type": "บานเปิด, บานคู่",
     "price": "17,500",
     "face": "-",
@@ -355,7 +355,7 @@
     "burglar": "c",
     "zig": "living",
     "remote": "c+red",
-    "color": "black<br>copper",
+    "color": "black copper",
     "door_type": "บานเปิด, บานคู่",
     "price": "18,500",
     "face": "-",
