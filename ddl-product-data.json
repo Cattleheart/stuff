@@ -599,5 +599,35 @@
     "face": "100",
     "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
     "palm": "-"
+  },
+  
+    "INFINITY": {
+    "img": "/wp-content/uploads/2025/06/ddl-infinity.png",
+    "id": "INFINITY",
+    "pin": "50",
+    "keycard": "50",
+    "finger": "100",
+    "key": { "Check" : "<i class='fas fa-check'></i>"},
+    "front": "69 x 400 x 51",
+    "back": "69 x 400 x 51",
+    "thickness": "33-90",
+    "backset": "60",
+    "mortise": "99",
+    "lock": "Mortise",
+    "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
+    "blu": "-",
+    "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
+    "battery": { "Check" : "<i class='fas fa-check'></i>"},
+    "burglar": { "Check" : "<i class='fas fa-check'></i>"},
+    "zig": "-",
+    "remote": { "Check" : "<i class='fas fa-check'></i>"},
+    "color": {
+    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    },
+    "door_type": "บานเปิด, บานคู่",
+    "price": "25,900",
+    "face": "100",
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "palm": "100"
   }
 }
