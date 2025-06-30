@@ -73,7 +73,7 @@
     "mortise": "-",
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": "access",
+    "blu": { "Acess" : "/wp-content/uploads/2023/12/Hafele_Access.jpg"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
