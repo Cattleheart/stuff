@@ -14,9 +14,7 @@
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
     "blu": "-",
-    "bts_mrt": {
-    "Check": "<i class='fas fa-check'></i>"
-    },
+    "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
     "zig": "-",
