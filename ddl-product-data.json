@@ -50,7 +50,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -106,7 +106,7 @@
     "lock": "Latch Lock",
     "mastercode": "-",
     "blu": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
@@ -136,7 +136,7 @@
     "lock": "Latch lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
     "blu": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
@@ -170,7 +170,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -200,7 +200,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -260,7 +260,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -290,7 +290,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -320,7 +320,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png",
     "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
@@ -351,7 +351,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -381,7 +381,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "living",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png",
     "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
@@ -412,7 +412,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -442,7 +442,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Stainless Steel": "/wp-content/uploads/2025/06/ddl-silver.png"
     },
@@ -472,7 +472,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -502,7 +502,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Black": "/wp-content/uploads/2024/01/ddl-black.png"
     },
@@ -532,7 +532,7 @@
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
-    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style="color: red;">*</p>"},
+    "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
     "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
     },
