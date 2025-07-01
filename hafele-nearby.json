@@ -1,0 +1,34 @@
+{
+  name: "Häfele Bangkok",
+  province: "กรุงเทพมหานคร",
+  region_id: 2,
+  address: "123 ถนนสุขุมวิท"
+},
+
+{
+  name: "Häfele Pattanakarn",
+  province: "กรุงเทพมหานคร",
+  region_id: 2,
+  address: "456 ถนนพัฒนาการ"
+},
+
+{
+  name: "Häfele Nonthaburi",
+  province: "นนทบุรี",
+  region_id: 2,
+  address: "987 ถนนแจ้งวัฒนะ"
+},
+
+{
+  name: "Häfele Chiang Mai",
+  province: "เชียงใหม่",
+  region_id: 1,
+  address: "789 ถนนนิมมานฯ"
+},
+
+{
+  name: "Häfele Phuket",
+  province: "ภูเก็ต",
+  region_id: 6,
+  address: "1011 ถนนป่าตอง"
+}
