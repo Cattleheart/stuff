@@ -16,6 +16,11 @@
 		],
 		"build": [
 			{
+				"defaultImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/model.webp",
+				"secondImg": "",
+				"thirdImg": ""
+			}
+			{
 				"title": "Motorized Electronic Mortise Lock",
 				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย วัสดุสแตนเลสสตีล แข็งแรงทนทาน"
 			},
