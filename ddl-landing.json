@@ -66,6 +66,11 @@
 				"title": "Integrated Smart Video Doorbell",
 				"desc": "เชื่อมต่อไร้ขีดจำกัด สนทนาผ่านกล้องได้แบบเรียลไทม์",
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section-4.webp"
+				"appStore": "https://apps.apple.com/th/app/hafele-smart-living/id1525841246",
+				"appStoreImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/App-Store.webp",
+				"gStore": "https://play.google.com/store/apps/details?id=com.hafele.smarthome",
+				"gStoreImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Google-Play.webp",
+				"qrCode": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Smart-Home-QR.webp"
 			}
 		],
 		"unlock": [
