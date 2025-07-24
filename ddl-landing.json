@@ -32,7 +32,7 @@
 			},
 			{
 				"title": "Tempered Glass with Anti-Fingerprint Coating",
-				"desc": "ระบบแจ้งเตือนเมื่อถูกบุกรุก",
+				"desc": "วัสดุกระจกนิรภัยกันรอยนิ้วมือแบบพิเศษ",
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/model.webp"				
 			},
 			{
@@ -146,63 +146,48 @@
 		],
 		"hero": [
 			{
-				"title": "The Key Is In Your Palm",
-				"desc": "เทคโนโลยีใหม่ล่าสุดปลดล็อกผ่านเส้นเลือดดำบนฝ่ามือ ระบบความปลอดภัยขั้นสูง จดจำได้สูงสุด 100 ฝ่ามือ",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section-2.webp"
+				"title": "Your Face is the Key",
+				"desc": "เทคโนโลยีการสแกนใบหน้าแบบ 3 มิติขั้นสูง พร้อมเรดาร์อัจฉริยะ ตรวจจับได้ทุกการเคลื่อนไหว",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-hero.webp"
 			}
 		],
 		"build": [
 			{
 				"title": "LED Handle Lighting",
-				"desc": "ไฟ LED ปรับแต่งได้ 7 สี ตามสไตล์",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/model.webp"				
+				"desc": "ไฟ LED เพิ่มเสน่ห์อย่างมีสไตล์",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-model.png"				
 			},
 			{
 				"title": "Motorized Electronic Mortise Lock",
 				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย วัสดุสแตนเลสสตีล แข็งแรงทนทาน",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Infinity_LOCK_MASTER.png"
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Horizon_LOCK_MASTER.png"
 			},
 			{
-				"title": "Dual Li-ion Battery",
-				"desc": "มาพร้อมแบตเตอรี่คู่ ใช้งานได้ต่อเนื่องแม้ขณะชาร์จ",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Infinity_BATTERY_MASTER.png"				
+				"title": "Li-ion Battery",
+				"desc": "แบตเตอรี่ใช้งานได้ต่อเนื่องยาวนาน",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Horizon_BATTERY_MASTER.png"				
 			},
 			{
 				"title": "Tempered Glass with Anti-Fingerprint Coating",
-				"desc": "ระบบแจ้งเตือนเมื่อถูกบุกรุก",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/model.webp"				
+				"desc": "วัสดุกระจกนิรภัยกันรอยนิ้วมือแบบพิเศษ",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-model.png"				
 			},
 			{
 				"title": "Weatherproof Design",
 				"desc": "ป้องกันน้ำ กันฝุ่นได้ทุกสภาพอากาศ",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/model.webp"				
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-model.png"				
+			},
+			{
+				"title": "Infrared Unlocking Even in Darkness",
+				"desc": "ปลดล็อกได้แม้ที่มืด ด้วยเทคโนโลยีอินฟราเรด",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Horizon_CAMERA-SENSOR_MASTER_modifier.png"				
 			}
 		],
 		"feature": [
 			{
-				"title": "Kids Friendly Design",
-				"desc": "ใช้งานสะดวกแม้สำหรับเด็ก แค่ยกมือก็ปลดล็อกได้จำกัด",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section3-3.webp"
-			},
-			{
-				"title": "Radar Sensor Detection",
-				"desc": "เพิ่มความปลอดภัยด้วยเรดาร์ตรวจจับการเคลื่อนไหว หากมีบุคคลแปลกหน้าอยู่หน้าประตู ระบบจะส่งภาพ แจ้งเตือนผ่านแอปพลิเคชันทันที",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section3-4.webp"
-			},
-			{
-				"title": "Advanced 3D Face ID",
-				"desc": "เทคโนโลยีการสแกนใบหน้าแบบ 3 มิติขั้นสูง พร้อมเรดาร์อัจฉริยะ ตรวจจับได้ทุกการเคลื่อนไหว",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section-3-scaled.webp"
-			},
-			{
-				"title": "4-inch Screen Door Viewer",
-				"desc": "หน้าจอขนาด 4 นิ้ว ดูภาพแบบเรียลไทม์ พร้อมบันทึกลง microSD ไม่พลาดทุกเหตุการณ์",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section-5.webp"
-			},
-			{
 				"title": "Integrated Smart Video Doorbell",
 				"desc": "เชื่อมต่อไร้ขีดจำกัด สนทนาผ่านกล้องได้แบบเรียลไทม์",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section-4.webp",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-feature1.webp",
 				"appStore": "https://apps.apple.com/th/app/hafele-smart-living/id1525841246",
 				"appStoreImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/App-Store.webp",
 				"gStore": "https://play.google.com/store/apps/details?id=com.hafele.smarthome",
@@ -212,14 +197,10 @@
 		],
 		"unlock": [
 			{
-				"title": "7-in-1 Unlocking Solutions",
-				"desc": "ปลดล็อคได้ 7 วิธี",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section4-1.webp",
+				"title": "6-in-1 Unlocking Solutions",
+				"desc": "ปลดล็อคได้ 6 วิธี",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/hoizon-unlock.webp",
 				"method": [
-					{
-						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/4-2-icon1.webp",
-						"desc": "สแกนเส้นเลือดดำบนฝ่ามือ"
-					},
 					{
 						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/4-2-icon2.webp",
 						"desc": "สแกนใบหน้า"
