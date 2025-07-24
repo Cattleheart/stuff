@@ -232,19 +232,19 @@
 			{
 				"title": "The Ultimate Solution for Home Security",
 				"desc": "ระบบรักษาความปลอดภัยขั้นสุด",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/section4-2.webp",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-security.webp",
 				"measure": [
 					{
 						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/4-1-icon1.webp",
 						"desc": "ระบบแจ้งเตือนเมื่อถูกบุกรุก"
 					},
 					{
-						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/4-1-icon2.webp",
-						"desc": "ระบบป้องกันการใส่รหัสแบบสุ่ม"
+						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-security-icon2.webp",
+						"desc": "ระบบตรวจจับบุคคลหน้าประตู"
 					},
 					{
-						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/4-1-icon3.webp",
-						"desc": "ระบบล็อก 2 ชั้น"
+						"icon": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-security-icon3.webp",
+						"desc": "ระบบยืนยันแบบ 2 ขั้นตอน"
 					}
 				]
 			}
