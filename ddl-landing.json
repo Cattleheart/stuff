@@ -1,5 +1,6 @@
 {
 	"INFINITY": {
+		"name": "INFINITY",
 		"landing": [
 			{
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/infinity-bg-scaled.webp",
@@ -137,6 +138,7 @@
 		}
 	},
 	"HORIZON": {
+		"name": "HORIZON",
 		"landing": [
 			{
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/horizon-bg-scaled.webp",
