@@ -267,9 +267,9 @@
 		],
 		"hero": [
 			{
-				"title": "Auto-Lock Electronic Mortise",
-				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย วัสดุสแตนเลสสตีล แข็งแรงทนทาน",
-				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/zenith-hero.png"
+				"title": "Integrated Smart Video Doorbell",
+				"desc": "เชื่อมต่อไร้ขีดจำกัด สนทนาผ่านกล้องได้แบบเรียลไทม์",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/07/zenith-feature.png"
 			}
 		],
 		"build": [
@@ -278,6 +278,11 @@
 				"desc": "ป้องกันน้ำ กันฝุ่นได้ทุกสภาพอากาศ",
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/08/zenith-build01.webp"
 			},
+			{
+				"title": "Auto-Lock Electronic Mortise",
+				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย วัสดุสแตนเลสสตีล แข็งแรงทนทาน",
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/08/zenith-build01.webp"
+			}
 			{
 				"title": "Tempered Glass with Anti-Fingerprint Coating",
 				"desc": "วัสดุกระจกนิรภัยกันรอยนิ้วมือแบบพิเศษ",
