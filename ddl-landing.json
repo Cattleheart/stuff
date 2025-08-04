@@ -263,6 +263,11 @@
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/08/Zenith-Landing-2.webp",
 				"caption": "Unlock Your Freedom, Go Keyless",
 				"logo": "https://www.hafelethailand.com/wp-content/uploads/2025/07/zenith-tag.png"
+				"appStore": "https://apps.apple.com/th/app/hafele-smart-living/id1525841246",
+				"appStoreImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/App-Store.webp",
+				"gStore": "https://play.google.com/store/apps/details?id=com.hafele.smarthome",
+				"gStoreImg": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Google-Play.webp",
+				"qrCode": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Smart-Home-QR.webp"
 			}
 		],
 		"hero": [
@@ -280,7 +285,7 @@
 			},
 			{
 				"title": "Auto-Lock Electronic Mortise",
-				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย วัสดุสแตนเลสสตีล แข็งแรงทนทาน",
+				"desc": "ระบบล็อกประตูอัตโนมัติ ปลอดภัย \nวัสดุสแตนเลสสตีล แข็งแรงทนทาน",
 				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/08/zenith-build01.webp"
 			},
 			{
