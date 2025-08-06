@@ -351,6 +351,13 @@
 	},
 	"NOVA": {
 		"name": "NOVA",
+		"landing": [
+			{
+				"img": "https://www.hafelethailand.com/wp-content/uploads/2025/08/Nova-Landing.webp",
+				"caption": "Unlock Smarter with Secure Access",
+				"logo": "https://www.hafelethailand.com/wp-content/uploads/2025/07/Infinity-tag-scaled.png"
+			}
+		],
 		"hero": [
 			{
 				"title": "Bluetooth Keys \nRemote Access Control",
