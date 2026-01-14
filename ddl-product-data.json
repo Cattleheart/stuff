@@ -1,6 +1,6 @@
 {
   "ER4900": {
-    "img": "/wp-content/uploads/2024/01/er4900.jpg",
+    "img": "/wp-content/uploads/2026/01/er4900-1.jpg",
     "id": "ER4900",
     "pin": "20",
     "keycard": "50",
@@ -20,7 +20,7 @@
     "zig": "-",
     "remote": "-",
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "6,290",
@@ -30,7 +30,7 @@
   },
 
   "ER5100": {
-    "img": "/wp-content/uploads/2024/01/er5100.jpg",
+    "img": "/wp-content/uploads/2026/01/er5100-1.jpg",
     "id": "ER5100",
     "pin": "10",
     "keycard": "100",
@@ -43,14 +43,14 @@
     "mortise": "-",
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2026/01/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่, เฟรมแคบ",
     "price": "9,500",
@@ -60,7 +60,7 @@
   },
 
   "ER5200": {
-    "img": "/wp-content/uploads/2024/01/er5200.jpg",
+    "img": "/wp-content/uploads/2026/01/er5200-1.jpg",
     "id": "ER5200",
     "pin": "100",
     "keycard": "100",
@@ -73,14 +73,14 @@
     "mortise": "-",
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Access" : "/wp-content/uploads/2023/12/Hafele_Access.jpg"},
+    "blu": { "Access" : "/wp-content/uploads/2026/01/Hafele_Access.jpg"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
     "zig": "-",
     "remote": "-",
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่, บานเลื่อน, เฟรมแคบ",
     "price": "9,500",
@@ -90,7 +90,7 @@
   },
 
   "DH2000": {
-    "img": "/wp-content/uploads/2024/01/dh2000.jpg",
+    "img": "/wp-content/uploads/2026/01/dh2000-1.jpg",
     "id": "DH2000",
     "pin": "-",
     "keycard": "-",
@@ -103,14 +103,14 @@
     "mortise": "85",
     "lock": "Latch Lock",
     "mastercode": "-",
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
     "zig": "-",
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "4,990",
@@ -120,7 +120,7 @@
   },
 
   "DH2100": {
-    "img": "/wp-content/uploads/2024/01/dh2100.jpg",
+    "img": "/wp-content/uploads/2026/01/dh2100-1.jpg",
     "id": "DH2100",
     "pin": "100",
     "keycard": "100",
@@ -133,14 +133,14 @@
     "mortise": "85",
     "lock": "Latch Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": "-",
     "zig": "-",
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "6,500",
@@ -150,7 +150,7 @@
   },
 
   "DL6600_SW": {
-    "img": "/wp-content/uploads/2024/01/dl6600_SW.jpg",
+    "img": "/wp-content/uploads/2026/01/dl6600_SW-1.jpg",
     "id": "DL6600 (SWING DOOR)",
     "pin": "100",
     "keycard": "100",
@@ -167,10 +167,10 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่, เฟรมแคบ",
     "price": "13,900",
@@ -180,7 +180,7 @@
   },
 
   "DL6600_SL": {
-    "img": "/wp-content/uploads/2025/10/dl6600_SL-copy.png",
+    "img": "/wp-content/uploads/2026/01/dl6600_SL-copy-1.png",
     "id": "DL6600 (SLIDING DOOR)",
     "pin": "100",
     "keycard": "100",
@@ -197,10 +197,10 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเลื่อน, เฟรมแคบ",
     "price": "13,900",
@@ -210,7 +210,7 @@
   },
 
   "EL7200": {
-    "img": "/wp-content/uploads/2024/01/el7200.jpg",
+    "img": "/wp-content/uploads/2026/01/el7200-1.jpg",
     "id": "EL7200",
     "pin": "1",
     "keycard": "50",
@@ -230,7 +230,7 @@
     "zig": "-",
     "remote": "-",
     "color": {
-    "Gray": "/wp-content/uploads/2024/01/ddl-gray.png"
+    "Gray": "/wp-content/uploads/2026/01/ddl-gray-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "9,500",
@@ -240,7 +240,7 @@
   },
 
   "DL7000": {
-    "img": "/wp-content/uploads/2024/02/dl7000.jpg",
+    "img": "/wp-content/uploads/2026/01/dl7000-1.jpg",
     "id": "DL7000",
     "pin": "50",
     "keycard": "50",
@@ -257,10 +257,10 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด",
     "price": "9,500",
@@ -270,7 +270,7 @@
   },
 
   "DL7100": {
-    "img": "/wp-content/uploads/2024/01/dl7100.jpg",
+    "img": "/wp-content/uploads/2026/01/dl7100-1.jpg",
     "id": "DL7100",
     "pin": "50",
     "keycard": "50",
@@ -287,10 +287,10 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด",
     "price": "14,900",
@@ -300,7 +300,7 @@
   },
 
   "DL7600": {
-    "img": "/wp-content/uploads/2024/01/dl7600.jpg",
+    "img": "/wp-content/uploads/2026/01/dl7600-1.jpg",
     "id": "DL7600",
     "pin": "10",
     "keycard": "100",
@@ -313,15 +313,15 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2026/01/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png",
-    "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png",
+    "Antique Copper": "/wp-content/uploads/2026/01/ddl-copper-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "17,500",
@@ -331,7 +331,7 @@
   },
 
   "DL7800": {
-    "img": "/wp-content/uploads/2024/01/dl7800.jpg",
+    "img": "/wp-content/uploads/2026/01/dl7800-1.jpg",
     "id": "DL7800",
     "pin": "35",
     "keycard": "70",
@@ -348,10 +348,10 @@
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "12,900",
@@ -361,7 +361,7 @@
   },
 
   "PP8100": {
-    "img": "/wp-content/uploads/2024/01/pp8100.jpg",
+    "img": "/wp-content/uploads/2026/01/pp8100-1.jpg",
     "id": "PP8100",
     "pin": "10",
     "keycard": "100",
@@ -374,15 +374,15 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2022/04/Hafele_Smart_Lock.png"},
+    "blu": { "Hafele Smart Lock": "/wp-content/uploads/2026/01/Hafele_Smart_Lock.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
-    "zig": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "zig": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png",
-    "Antique Copper": "/wp-content/uploads/2024/01/ddl-copper.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png",
+    "Antique Copper": "/wp-content/uploads/2026/01/ddl-copper-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "18,500",
@@ -392,7 +392,7 @@
   },
   
   "PP9100": {
-    "img": "/wp-content/uploads/2024/01/pp9100.jpg",
+    "img": "/wp-content/uploads/2026/01/pp9100-1.jpg",
     "id": "PP9100",
     "pin": "99",
     "keycard": "99",
@@ -405,14 +405,14 @@
     "mortise": "99",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "20,900",
@@ -422,7 +422,7 @@
   },
   
     "STELLA": {
-    "img": "/wp-content/uploads/2025/06/ddl-stellar.png",
+    "img": "/wp-content/uploads/2026/01/ddl-stellar-1.png",
     "id": "STELLA",
     "pin": "-",
     "keycard": "-",
@@ -435,14 +435,14 @@
     "mortise": "85",
     "lock": "Latch Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "bts_mrt": "-",
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Stainless Steel": "/wp-content/uploads/2025/06/ddl-silver.png"
+    "Stainless Steel": "/wp-content/uploads/2026/01/ddl-silver-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "1,890",
@@ -452,7 +452,7 @@
   },
   
     "ALPHA": {
-    "img": "/wp-content/uploads/2025/06/ddl-alpha.png",
+    "img": "/wp-content/uploads/2026/01/ddl-alpha-1.png",
     "id": "ALPHA",
     "pin": "150",
     "keycard": "150",
@@ -465,14 +465,14 @@
     "mortise": "85",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "7,900",
@@ -482,7 +482,7 @@
   },
   
     "COSMO": {
-    "img": "/wp-content/uploads/2025/06/ddl-cosmo.png",
+    "img": "/wp-content/uploads/2026/01/ddl-cosmo-1.png",
     "id": "COSMO",
     "pin": "10",
     "keycard": "100",
@@ -495,14 +495,14 @@
     "mortise": "110",
     "lock": "Mortise",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Black": "/wp-content/uploads/2024/01/ddl-black.png"
+    "Black": "/wp-content/uploads/2026/01/ddl-black-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "12,900",
@@ -512,7 +512,7 @@
   },  
   
     "NOVA": {
-    "img": "/wp-content/uploads/2025/06/ddl-nova.png",
+    "img": "/wp-content/uploads/2026/01/ddl-nova-1.png",
     "id": "NOVA",
     "pin": "100",
     "keycard": "100",
@@ -525,14 +525,14 @@
     "mortise": "-",
     "lock": "Rim Lock",
     "mastercode": { "Check" : "<i class='fas fa-check'></i>"},
-    "blu": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "blu": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "bts_mrt": { "Check" : "<i class='fas fa-check'></i>"},
     "battery": { "Check" : "<i class='fas fa-check'></i>"},
     "burglar": { "Check" : "<i class='fas fa-check'></i>"},
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>", "Asterisk" :"<p style='color: red;'>*</p>"},
     "color": {
-    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2026/01/ddl-dgray-1.png"
     },
     "door_type": "บานเปิด, บานคู่, บานเลื่อน, เฟรมแคบ",
     "price": "9,900",
@@ -542,7 +542,7 @@
   },  
   
   "ZENITH": {
-    "img": "/wp-content/uploads/2025/06/ddl-zenith.png",
+    "img": "/wp-content/uploads/2026/01/ddl-zenith-1.png",
     "id": "ZENITH",
     "pin": "100",
     "keycard": "200",
@@ -562,17 +562,17 @@
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>"},
     "color": {
-    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2026/01/ddl-dgray-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "16,900",
     "face": "-",
-    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "palm": "-"
   },
     
   "HORIZON": {
-    "img": "/wp-content/uploads/2025/06/ddl-horizon.png",
+    "img": "/wp-content/uploads/2026/01/ddl-horizon.png",
     "id": "HORIZON",
     "pin": "100",
     "keycard": "100",
@@ -592,17 +592,17 @@
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>"},
     "color": {
-    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2026/01/ddl-dgray-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "22,900",
     "face": "100",
-    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "palm": "-"
   },
   
     "INFINITY": {
-    "img": "/wp-content/uploads/2025/06/ddl-infinity.png",
+    "img": "/wp-content/uploads/2026/01/ddl-infinity-1.png",
     "id": "INFINITY",
     "pin": "50",
     "keycard": "50",
@@ -622,12 +622,12 @@
     "zig": "-",
     "remote": { "Check" : "<i class='fas fa-check'></i>"},
     "color": {
-    "Dark Gray": "/wp-content/uploads/2025/06/ddl-dgray.png"
+    "Dark Gray": "/wp-content/uploads/2026/01/ddl-dgray-1.png"
     },
     "door_type": "บานเปิด, บานคู่",
     "price": "25,900",
     "face": "100",
-    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2022/04/Hafele_Smart_Living.png"},
+    "wifi": { "Hafele Smart Living": "/wp-content/uploads/2026/01/Hafele_Smart_Living.png"},
     "palm": "100"
   }
 }
